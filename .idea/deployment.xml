@@ -9,17 +9,10 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="server">
+      <paths name="Ali-KMJ">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="server_test">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/opt/weiwiz/meOcer/MeMonitor" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
